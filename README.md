@@ -4,8 +4,7 @@
 # <font color=purple size=7>Disciplina: Machine Learning & Analytics (Sprint 2)</font>
 
 # <font color=purple size=6>Problema de Classificação utilizando métodos clássicos (Machine Learning) </font>
-
-##https://github.com/nathaliasch/MVP_Pos_DataScience/blob/master/MVP_MachineLearning.ipynb
+https://github.com/nathaliasch/MVP_Pos_DataScience/blob/master/MVP_MachineLearning.ipynb
 
 O notebook MVP_MachineLearning usa um conjunto de dados obtido do repositório UCI (https://archive.ics.uci.edu/dataset/2/adult), sem valores ausentes e composto de 14 atributos e uma variável target:
 
@@ -25,7 +24,9 @@ hour-per-week : horas trabalhadas por semana
 native-country : país categorizada em 42 categorias
 income : renda (target)
 
+
 # <font color=purple size=6>Visão computacional (Deep Learning) </font>
+https://github.com/nathaliasch/MVP_Pos_DataScience/blob/master/MVP_DeepLearning.ipynb
 
 O notebook MVP_DeepLearning trata de um problema de visão computacional cujo objetivo é classificar as imagens de pinguins e tartarugas. O conjunto de dados utilizado foi obtido do repositório Kaggle (https://www.kaggle.com/datasets/abbymorgan/penguins-vs-turtles).
 
