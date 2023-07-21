@@ -5,6 +5,8 @@
 
 # <font color=purple size=6>Problema de Classificação utilizando métodos clássicos (Machine Learning) </font>
 
+##https://github.com/nathaliasch/MVP_Pos_DataScience/blob/master/MVP_MachineLearning.ipynb
+
 O notebook MVP_MachineLearning usa um conjunto de dados obtido do repositório UCI (https://archive.ics.uci.edu/dataset/2/adult), sem valores ausentes e composto de 14 atributos e uma variável target:
 
 age : idade dos indivíduos em anos
